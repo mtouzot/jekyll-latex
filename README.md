@@ -4,7 +4,8 @@
     <img src="./assets/jekyll_latex_cover_art.png">
 </p>
 
-  [![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg)
+  [![LICENSE](https://img.shields.io/github/license/mtouzot/jekyll-latex)](LICENSE.md) 
+
 
 ## Features
 - LaTeX typography
@@ -18,7 +19,7 @@
 
 ## Installation
 ```
-git clone https://github.com/ryanmcdermott/jekyll-latex.git
+git clone https://github.com/mtouzot/jekyll-latex.git
 
 bundle install
 
