@@ -31,6 +31,7 @@ bundle exec jekyll serve --watch
 ## Credits
 
 Based on the amazing work below:
+- https://github.com/ryanmcdermott/jekyll-latex
 - https://github.com/heiswayi/the-plain
 - https://github.com/vincentdoerig/latex-css
 
